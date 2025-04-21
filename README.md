@@ -1,8 +1,4 @@
 # Programming Reading List
-Credits to [/u/CSMastermind](https://www.reddit.com/user/CSMastermind) for creating the list found here:
-* [Part 1](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmplj3/)
-* [Part 2](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmpmfs/)
-* [Part 3](https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books/dvmpn75/)
 
 More reading list resources:
 * [The Ultimate Reading List for Developers](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
@@ -12,15 +8,13 @@ More reading list resources:
 * Programming Interviews Exposed: Coding Your Way Through the Interview
 * Introduction to Algorithms
 * The Algorithm Design Manual
-* Effective Java
-* Concurrent Programming in Java: Design Principles and Pattern
 * Modern Operating Systems
 * Programming Pearls
 * Discrete Mathematics for Computer Scientists
 
 ## Junior Software Engineer Reading List
 ### Read This First
-* Pragmatic Thinking and Learning: Refactor Your Wetware
+* ✅ Pragmatic Thinking and Learning: Refactor Your Wetware
 
 ### Fundamentals
 * Code Complete: A Practical Handbook of Software Construction
